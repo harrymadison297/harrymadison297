@@ -29,7 +29,7 @@ src="https://img.shields.io/github/followers/harrymadison297?logo=github&style=f
 ### Badges
 
 <b>My GitHub Stats</b>
-
+<p align="center">
 <a href="http://www.github.com/harrymadison297"><img src="https://github-readme-stats.vercel.app/api?username=harrymadison297&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=0f172a&icon_color=facc15&bg_color=ffffff&hide_border=true&show_icons=true" alt="harrymadison297's GitHub stats" /></a>
 
 <a href="http://www.github.com/harrymadison297"><img src="https://github-readme-streak-stats.herokuapp.com/?user=harrymadison297&stroke=0f172a&background=ffffff&ring=f97316&fire=f97316&currStreakNum=0f172a&currStreakLabel=f97316&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" /></a>
@@ -37,6 +37,7 @@ src="https://img.shields.io/github/followers/harrymadison297?logo=github&style=f
 <a href="http://www.github.com/harrymadison297"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=harrymadison297&bg_color=ffffff&color=0f172a&line=facc15&point=0f172a&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/harrymadison297" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrymadison297&langs_count=10&title_color=f97316&text_color=0f172a&icon_color=facc15&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</p>
 
 ### Support Me
 
