@@ -29,26 +29,20 @@ src="https://img.shields.io/github/followers/harrymadison297?logo=github&style=f
 ### Badges
 
 <b>My GitHub Stats</b>
-<p align="left">
+<h1 display="flex" align="center">
 <a href="http://www.github.com/harrymadison297"><img src="https://github-readme-stats.vercel.app/api?username=harrymadison297&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=0f172a&icon_color=facc15&bg_color=ffffff&hide_border=true&show_icons=true" alt="harrymadison297's GitHub stats" /></a>
-</p>
-
-<p align="left">
 <a href="http://www.github.com/harrymadison297"><img src="https://github-readme-streak-stats.herokuapp.com/?user=harrymadison297&stroke=0f172a&background=ffffff&ring=f97316&fire=f97316&currStreakNum=0f172a&currStreakLabel=f97316&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" /></a>
-</p>
-
-<p align="left">
 <a href="https://github.com/harrymadison297">
   
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harrymadison297&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </a>
-</p>
+</h1>
 
 ### 🔝 Top Contributed Repo
-<p align="center">
+<h1 align="center">
   
 ![](https://github-contributor-stats.vercel.app/api?username=harrymadison297&limit=5&theme=dark&combine_all_yearly_contributions=true)
-</p>
+</h1>
 
 ### Support Me
 
