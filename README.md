@@ -8,7 +8,7 @@ I love the feeling when solving problem. Currently, I'm learning Linux and my go
 
 * 🌍  I'm based in Viet Nam
 * ✉️  You can contact me at [harrymadison297@gmail.com](mailto:harrymadison297@gmail.com)
-* 🧠  I'm learning Linux Embedded
+* 🧠  I'm Software Developer and Solution Architecture
 * 🤝  I'm open to collaborating on any kind of software project
 
 <a href="https://www.github.com/harrymadison297" target="_blank" rel="noreferrer"><img
